@@ -1,5 +1,5 @@
 {
-    "name": "Arun/hasher",
+    "name": "arun/hasher",
     "description": "MD5 support in laravel",
     "license": "MIT",
     "authors": [
