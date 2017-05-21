@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/arunfung/laravel-package-develop.svg?branch=master)](https://travis-ci.org/arunfung/laravel-package-develop)
 ### 开发 Laravel 扩展 测试
 
 ### 用法
