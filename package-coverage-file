@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1495381824">
-  <project timestamp="1495381824">
+<coverage generated="1495382900">
+  <project timestamp="1495382900">
     <package name="Arun\Hasher">
       <file name="/Users/arun/Sites/package-learn/packages/arun/hasher/src/MD5Hasher.php">
         <class name="MD5Hasher" namespace="Arun\Hasher" fullPackage="Arun" package="Arun">
