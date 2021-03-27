@@ -13,7 +13,7 @@ class MD5HasherTest extends TestCase
 
     public function setUp()
     {
-        $this->hasher = new \Arun\Hasher\MD5Hasher();
+        $this->hasher = new \ArunFung\Hasher\MD5Hasher();
     }
 
     public function testMD5HasherMake()

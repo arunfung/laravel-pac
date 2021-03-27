@@ -6,7 +6,7 @@
  * Time: 7:17 PM
  */
 
-namespace Arun\Hasher;
+namespace ArunFung\Hasher;
 
 
 /**

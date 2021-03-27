@@ -7,17 +7,17 @@
 ### 用法
 
 ```
-composer require arun/hasher
+composer require arunfung/hasher
 ```
 
 或者在你的 `composer.json` 的 require 部分中添加:
 ```json
- "arun/hasher": "~0.1"
+ "arunfung/hasher": "~0.1"
 ```
 
 下载完毕之后,直接配置 `app/config.php` 的 `providers`:
 
 ```php
 //Illuminate\Hashing\HashServiceProvider::class,
-\Arun\Hasher\MD5HasherProvider::class,
+\ArunFung\Hasher\MD5HasherProvider::class,
 ```

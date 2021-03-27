@@ -1,6 +1,6 @@
 <?php
 
-namespace Arun\Hasher;
+namespace ArunFung\Hasher;
 
 use Illuminate\Support\ServiceProvider;
 
